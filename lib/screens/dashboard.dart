@@ -54,8 +54,7 @@ class DashboardPage extends StatelessWidget {
                 ),
               ],
             ),
-
-            SafeArea(child: SizedBox()),
+            SafeArea(child: SizedBox(height: 20)),
           ],
         ),
       ),
